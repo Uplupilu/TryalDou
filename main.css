@@ -371,3 +371,9 @@ footer .blocks ul li {
     margin-top: 7px;
     opacity: 0.8;
 }
+
+footer hr {
+    margin: 30 px 0;
+    border: 0;
+    height: 0.6px;
+    background: #CCC;
